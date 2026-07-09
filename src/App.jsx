@@ -4,4 +4,4 @@ function App() {
   return <GerakCeria />;
 }
 
-export default App;s
+export default App;
